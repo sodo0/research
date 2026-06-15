@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+**/venv/
+**/__pycache__/
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Log files
+*.log
+**/*.log
+
+# Flutter/Dart related (if not already covered)
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
